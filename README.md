@@ -44,8 +44,3 @@ Dell Technologies
         frequent words and themes and used the findings to tailor responses to align with common customer needs
         • Performed A/B testing for Dell's website, evaluating different layouts and content variations to optimize user
         experience and increase conversion rates
-   
-## Awards and Accomplishments
-        • Awarded Kaggle Discussion expert for actively engaging in the Kaggle community
-        • Winner of Ideathon 5.0, a PAG Level event conducted by Dell Technologies
-        • Completed Data Science Bootcamp “Summer Analytics 2020” course from IIT Guwahati
