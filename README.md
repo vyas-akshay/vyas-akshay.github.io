@@ -1,3 +1,3 @@
-# Thank you for stopping by
+# Thank you Krina for stopping by
 ## Akshay Vyas
 
